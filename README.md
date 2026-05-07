@@ -46,9 +46,9 @@ script.js
 * Responsive button grid
 * Smooth transitions
 
-## 🔗Live Demo
-https://sanskrutiii21.github.io/PremCalc/
+## 🌐Live Demo
+🔗https://sanskrutiii21.github.io/PremCalc/
 
-## ❤️ Made With Passion
+## 👨‍💻 Author
 
-Crafted using pure HTML, CSS, and JavaScript for a clean and premium web experience.
+Sanskruti Bhabad
