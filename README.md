@@ -46,27 +46,8 @@ script.js
 * Responsive button grid
 * Smooth transitions
 
-## ⚡ How to Use
-
-1. Download the project files
-2. Open `index.html`
-3. Start calculating instantly
-
-## 🔥 Perfect For
-
-* Frontend Practice
-* JavaScript Projects
-* Portfolio Projects
-* GitHub Showcase
-* Beginner to Intermediate Developers
-
-## 🌈 Future Enhancements
-
-* Scientific Mode
-* Theme Customization
-* History Panel
-* Sound Effects
-* Dark/Light Toggle
+## 🔗Live Demo
+https://sanskrutiii21.github.io/PremCalc/
 
 ## ❤️ Made With Passion
 
